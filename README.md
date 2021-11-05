@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java/C/MySQL
 - 😄 Pronouns: He/Him/His/Himself.<br/>
 - 📷 You can find me on Instagram as @amitmishrra.<br/>
-- ⚡ Fun fact: I geek out on Marvel movies and Online gaming.<br/>
+- ⚡ Fun fact: I geek out on Marvel movies and Books.<br/>
 <!---
 amitmishrra/amitmishrra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
