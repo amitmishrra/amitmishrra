@@ -8,8 +8,21 @@
 amitmishrra/amitmishrra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<br />
 
-![Amit Mishra GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitmishrra&show_icons=true)
+![](https://raw.githubusercontent.com/Abhijay007/Abhijay007/main/coder1.gif)
+
+
+
+---
+![Amit Mishra GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitmishrra&show_icons=true&theme=tokyonight)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vi519&theme=blood-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+---
+
+---
+
+
 
 ---
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
