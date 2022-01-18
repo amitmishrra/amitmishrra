@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <br />
 
-![](https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif)
+![](https://fuertedevelopers.in/wp-content/uploads/2020/08/aboutus.gif)
 
 
 
