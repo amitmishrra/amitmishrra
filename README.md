@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <br />
 
-![](https://raw.githubusercontent.com/Abhijay007/Abhijay007/main/coder1.gif)
+![](https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif)
 
 
 
