@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amit MIshra
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java/C/MySQL
+- 🌱 I’m currently learning Javascript and NodeJs
 - 😄 Pronouns: He/Him/His/Himself.<br/>
 - 📷 You can find me on Instagram as @amitmishrra.<br/>
 - ⚡ Fun fact: I geek out on Marvel movies and Books.<br/>
