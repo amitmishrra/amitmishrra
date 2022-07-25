@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amit</h1>
+<h1 align="center">Hello World👋, I'm Amit</h1>
 <h3 align="center">I code.</h3>
 
 - 🔭 I’m currently working on **React.js**
