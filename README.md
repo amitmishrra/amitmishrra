@@ -1,19 +1,7 @@
 <h1 align="center">Hello World👋, I'm Amit</h1>
 <h3 align="center">I code.</h3>
 
-- 🔭 I’m currently working on **React.js**
-
-- 🌱 I’m currently learning **JavaScript**
-
-- 👯 I’m looking to collaborate on **Some cool projects**
-
-- 🤝 I’m looking for help with **Node.js**
-
-- 💬 Ask me about **JavaScript, React.js**
-
-- 📫 How to reach me **mishra4amit4@gmail.com**
-
-- ⚡ Fun fact **I don't know.**
+- Java / Javascript 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
