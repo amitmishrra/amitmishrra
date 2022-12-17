@@ -1,7 +1,6 @@
 <h1 align="center">Hello World👋, I'm Amit</h1>
 <h3 align="center">I code.</h3>
 
-- Java / Javascript 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
