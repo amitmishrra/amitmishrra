@@ -1,4 +1,4 @@
-<h1 align="center">Hello World👋, I'm Amit</h1>
+<h1 align="center">Hello World, I'm Amit</h1>
 <h3 align="center">I code.</h3>
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitmishrra&theme=github_dark)
